@@ -1,0 +1,23 @@
+[app]
+# The name of your app as displayed in the badge menu
+name = "Tilda Lander"
+# The submenu where your app should appear.
+# One of: "Badge", "Music", "Media", "Apps", "Games"
+category = "Games"
+# OPTIONAL: compatibility with older firmware that predates categories.
+# One of: "Badge", "Music", "Apps"
+menu = "Apps"
+
+[entry]
+# The name of the entry-point App class exported via __app_export__
+class = "TildaLander"
+
+[metadata]
+# Your nickname. Must be at most 32 characters!
+author = "Coedy"
+# License of your app as an SPDX identifier: https://spdx.org/licenses/
+license = "MIT"
+# URL to the repository of your app.
+url = "https://github.com/Coedy/TildaLander"
+# Bump this and cut a new GitHub release to publish updates.
+version = "0.0.1"

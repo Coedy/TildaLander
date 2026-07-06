@@ -1,0 +1,10 @@
+{
+    "name": "Tilda Lander",
+    "category": "Games",
+    "menu": "Apps",
+    "author": "Coedy",
+    "license": "MIT",
+    "url": "https://github.com/Coedy/TildaLander",
+    "version": "1.0.0",
+    "description": "A reimagined Lunar Lander for the Tildagon badge. Built with Claude."
+}
