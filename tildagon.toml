@@ -20,4 +20,4 @@ license = "MIT"
 # URL to the repository of your app.
 url = "https://github.com/Coedy/TildaLander"
 # Bump this and cut a new GitHub release to publish updates.
-version = "0.0.1"
+version = "0.0.2"
