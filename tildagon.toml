@@ -15,9 +15,10 @@ class = "TildaLander"
 [metadata]
 # Your nickname. Must be at most 32 characters!
 author = "Coedy"
+description = "A Tildagon Lunar Lander clone built with Claude."
 # License of your app as an SPDX identifier: https://spdx.org/licenses/
 license = "MIT"
 # URL to the repository of your app.
 url = "https://github.com/Coedy/TildaLander"
 # Bump this and cut a new GitHub release to publish updates.
-version = "0.0.2"
+version = "0.0.3"
